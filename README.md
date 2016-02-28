@@ -1,3 +1,7 @@
+My version have some hardcoded class to talk with JasperServer
+
+
+
 Jasperv8
 ========
 
